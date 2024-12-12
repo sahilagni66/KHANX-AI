@@ -12,12 +12,12 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `╭━━━〔 *KHANX-AI* 〕━━━┈⊷
+let dec = `╭━━━〔 *Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ* 〕━━━┈⊷
 ┃★╭──────────────
-┃★│ Owner : *Jᴀᴡᴀᴅ TᴇᴄʜX*
+┃★│ Owner : *Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ*
 ┃★│ Baileys : *Multi Device*
 ┃★│ Type : *NodeJs*
-┃★│ Platform : *Heroku*
+┃★│ Platform : *Kyu Batau*
 ┃★│ Prefix : *[ Multi Prefix ]*
 ┃★│ Version : *1.0.0 Bᴇᴛᴀ*
 ┃★╰──────────────
@@ -145,12 +145,12 @@ let dec = `╭━━━〔 *KHANX-AI* 〕━━━┈⊷
 ┃◆ .𝚂𝚊𝚟𝚎
 ┃◆ .𝚆𝚒𝚔𝚒𝙿𝚎𝚍𝚒𝚊
 ╰━━━━━━━━━━━━⪼
-╭━━❮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ❯━┈⊷
-┃https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j
+╭━━❮ 𝚀𝚞𝚘𝚝𝚎𝚜 ❯━┈⊷
+┃യ ᳝  # 𝝠ꜱ ŋіցꚕȶ ƒ⍺ΙΙꜱ, ȶꚕe ԝ𝗈υŋԁꜱ ɽeceіνeԁ ԁυɽіŋց ȶꚕe ԁ⍺у eɱeɽցe      ─  ͜͡🌖
 ╰────────────────··๏
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX`
+> ©Pᨵׁׅᨰׁׅꫀׁׅܻꭈׁׅꫀׁׅܻժׁׅ݊ Bᨮ꫶ׁׅ֮ Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ Bᨵׁׅtׁׅ`
 
-await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/hzagwo.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/dmvib3.jpeg`},caption:dec},{quoted:mek});
     
 }catch(e){
 console.log(e)
