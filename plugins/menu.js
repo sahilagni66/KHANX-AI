@@ -11,12 +11,12 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `╭━━━〔 *KHANX-AI* 〕━━━┈⊷
+let dec = `╭━━━〔 *Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ* 〕━━━┈⊷
 ┃★╭──────────────
-┃★│ Owner : *Jᴀᴡᴀᴅ TᴇᴄʜX*
+┃★│ Owner : *Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ*
 ┃★│ Baileys : *Multi Device*
 ┃★│ Type : *NodeJs*
-┃★│ Platform : *Heroku*
+┃★│ Platform : *Kyu Batau*
 ┃★│ Prefix : *[ Multi Prefix ]*
 ┃★│ Version : *1.0.0 Bᴇᴛᴀ*
 ┃★╰──────────────
@@ -24,9 +24,8 @@ let dec = `╭━━━〔 *KHANX-AI* 〕━━━┈⊷
 ╭━❮ UPDATE ❯━
 ┃◆ Use .Menu2 Because Updating Menu
 ╰━━━━━━━━━━━━⪼
-Follow The Channel For More ✅
-https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX`
+
+> © Pᨵׁׅᨰׁׅꫀׁׅܻꭈׁׅꫀׁׅܻժׁׅ݊ Bᨮ꫶ׁׅ֮ Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ Bᨵׁׅtׁׅ`
 
 await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/hzagwo.jpg`},caption:dec},{quoted:mek});
     
