@@ -7,17 +7,17 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",
 // add your Session Id 
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "! ",
 // add your prifix for bot
-BOT_NAME: process.env.BOT_NAME || "KHANX-AI",
+BOT_NAME: process.env.BOT_NAME || "Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ",
 // add bot namw here for menu
-OWNER_NUMBER: process.env.OWNER_NUMBER || "92342758XXXX",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "918127875972",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Jᴀᴡᴀᴅ TᴇᴄʜX",
+OWNER_NAME: process.env.OWNER_NAME || "Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ",
 // add bot owner name 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/149k8x.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *KHAN-AI*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
