@@ -14,12 +14,12 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━━〔 *KHANX-AI* 〕━━━┈⊷
+        let dec = `╭━━━〔 *Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ* 〕━━━┈⊷
 ┃★╭──────────────
-┃★│ Owner : *Jᴀᴡᴀᴅ TᴇᴄʜX*
+┃★│ Owner : *Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ*
 ┃★│ Baileys : *Multi Device*
 ┃★│ Type : *NodeJs*
-┃★│ Platform : *Heroku*
+┃★│ Platform : *Kyu Batau*
 ┃★│ Prefix : *[ Multi Prefix ]*
 ┃★│ Version : *1.0.0 Bᴇᴛᴀ*
 ┃★╰──────────────
@@ -147,7 +147,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◆ .𝚂𝚊𝚟𝚎
 ┃◆ .𝚆𝚒𝚔𝚒𝙿𝚎𝚍𝚒𝚊
 ╰━━━━━━━━━━━━⪼
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX`;
+> © Pᨵׁׅᨰׁׅꫀׁׅܻꭈׁׅꫀׁׅܻժׁׅ݊ Bᨮ꫶ׁׅ֮ Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ Bᨵׁׅtׁׅ`;
 
         await conn.sendMessage(
             from,
